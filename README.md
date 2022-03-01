@@ -1,7 +1,8 @@
-## **Hi there 👋 I am**
-# **ZINZ CRIZ XAVIER**
+<h1 align ="center"> Hi there 👋 I am <strong>Zinz</strong></h1>
 
-#### Learner | Techgeek | Pythoneer
+
+
+<h4 align="center"> Learner | Techgeek | Pythoneer</h4>
 
 <!--
 **zinzcriz/zinzcriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
